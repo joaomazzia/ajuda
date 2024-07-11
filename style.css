@@ -1,0 +1,63 @@
+.lindo {
+    /* border 1px solid grey; */
+    width: 330px;
+    height: 220px;
+    float:left;
+    margin: 20px;
+    background-image: url(assets/porsche-panamera-2-9-v6-ehybrid-4s-pdk-wmimagem01103176639.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.carro {
+    /* border 1px solid grey; */
+    width: 330px;
+    height: 220px;
+    float:left;
+    margin: 20px;
+    background-image: url(assets/bmw-320i-m-sport-2021-teste-br.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.bmw {
+    /* border 1px solid grey; */
+    width: 330px;
+    height: 220px;
+    float:left;
+    margin: 20px;
+    background-image:url(assets/Used-2020-Lamborghini-Aventador-SVJ-LP-770-4-1707180406.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+
+}
+
+.jf {
+    width: 300px;
+    height: 300px;
+}
+
+.jogos {
+    width: 390x;
+    height: 300px;
+}
+
+.svj {
+    width: 390px;
+    height: 300px;
+}
+
+.friv {
+    width: 390px;
+    height: 300px;
+}
+
+.kkkk {
+    width: 500px;
+    height: 200px;
+}
